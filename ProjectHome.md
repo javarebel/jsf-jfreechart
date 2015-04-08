@@ -1,0 +1,1 @@
+A Custom JSF component library to generate render charts using JFreeChart API
